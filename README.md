@@ -14,9 +14,9 @@
 • Problem solver with a passion for technology with skills in grasping the big picture and applying appropriate technology/ mix of technologies that meet business needs while minimizing risks.
 
 # IT SKILLS
-•	Automation Tools:		Automation Anywhere, UiPath, WinAutomation (ProcessBot), AutoIt
+•	Automation Tools:		Automation Anywhere, UiPath, WinAutomation (ProcessBot), AutoIt, TagUI, PowerAutomation
 
-•	Languages: Java, HTML, VB Script, Macro
+•	Languages: Java, HTML, VB Script, Macro,  Python
 
 •	ERP Tools: SAP, PeopleSoft, OracleApp
 
